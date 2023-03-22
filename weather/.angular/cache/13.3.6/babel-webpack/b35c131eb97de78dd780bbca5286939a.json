@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { TemperaturePipeModule } from './temperature-pipe.module';\nexport { TimePipeModule } from './time-pipe.module';","map":null,"metadata":{},"sourceType":"module"}

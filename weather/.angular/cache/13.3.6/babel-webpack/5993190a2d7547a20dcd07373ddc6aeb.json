@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { InjectionToken } from '@angular/core';\nexport const ENVIRONMENT = new InjectionToken('EnvironmentVariables');","map":null,"metadata":{},"sourceType":"module"}
